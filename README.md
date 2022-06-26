@@ -1,4 +1,4 @@
-# Awesome-Baccalaureat-Resources
+# Baccalaureat-Resources
 Hello and welcome aboard.
 
 This repository is meant to be as a guide for baccalaureat students(as well as a personal note for me to re arrange stuff.
